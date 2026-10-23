@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=ALPHA+AND+OMEGA+WOLF+XMD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=WELCOME+TO+SIMON+TECH" />
 </p>
 
 # 🖤 SIMON TECH
